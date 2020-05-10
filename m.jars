@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.023222,
+https://cdn.jsdelivr.net/gh/offlinesite/22929213_0/0.kar
+#EXTINF:2.680000,
+https://cdn.jsdelivr.net/gh/offlinesite/22929213_0/1.kar
+#EXT-X-ENDLIST
